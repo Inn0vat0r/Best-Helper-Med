@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MediTrack</string>
+    <string-array name="dose_type">
+        <item>Daily</item>
+        <item>Weekly</item>
+    </string-array>
+    <string name="expiry_alert">Please check expiry date of medicine</string>
+    <string name="validate_alert">Please fill all necessary details!</string>
+    <string name="no_data">No medicine record yet!</string>
+    <string name="person_name">Your Name</string>
+    <string name="person_age">Your Age</string>
+    <string name="submit">Submit!</string>
+    <string name="done">Done</string>
+    <string name="sos_name">SOS Name</string>
+    <string name="sos_mob">SOS Mob No</string>
+    <string name="text_welcome">We are so glad, you are here! \n Just provide SOS details for your help!</string>
+    <string name="update_details">Update Details</string>
+    <string name="menu_search">Search</string>
+    <string name="set_time">Set Time</string>
+    <string name="sos_details">SOS Details :</string>
+    <string name="add_med">Add New Medicine</string>
+    <string name="update_med">Update Medicine Details</string>
+</resources>
